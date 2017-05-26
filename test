@@ -1,3 +1,6 @@
 test melileak 
 
 service_secret_key
+
+
+export http_proxy=10.10.32.64
